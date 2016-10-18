@@ -10,19 +10,32 @@ English Test
 
 #### Description ####
 中文测试
+
 `中文测试`
 
-`ngx_http_google_filter_module` is a filter module which makes google mirror much easier to deploy.    
-Regular expressions, uri locations and other complex configurations have been built-in already.    
-The native nginx module ensure the efficiency of handling cookies, gstatic scoures and redirections.   
-Let's see how `easy` it is to setup a google mirror.
-```nginx
-location / {
-  google on;
-}
-```
+#### Description ####
+日本語：
+あいうえお
+かきくけこ
+さしすせそ
+たちつてと
+なにぬねの
+はひふへほ
+まみむめも
+や　ゆ　よ
+らりうれろ
+わ　　　を
+
+
+
+
 > _What? Are you kidding me?_   
 > _Yes, it's just that simple!_
 
 This is my Practice
 ==========================
+
+
+
+
+
